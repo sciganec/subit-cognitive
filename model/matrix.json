@@ -1,0 +1,56 @@
+{
+  "theory": "Theory of Cognitive Evolution",
+  "version": "3.0",
+  "paradigms": [
+    {
+      "name": "Proto",
+      "form": "direct bodily cognition",
+      "vectors": {
+        "I": { "mode": "Consciousness", "referent": "Pre-symbolic sensorimotor cognition; upper boundary — Homo sapiens (Jebel Irhoud)", "date": "before ~300,000 years ago" },
+        "You": { "mode": "Body", "referent": "Mirror self-recognition test (Gallup, 1970)", "date": "phylogenetically variable; ontogenetically ~18-24 months" },
+        "We": { "mode": "Kin", "referent": "Paleogenetics of burials (Hazleton North, Gurgy, Fujia)", "date": "~4,500-5,700 years ago" },
+        "They": { "mode": "Nature", "referent": "Animism (Tylor, 1871); Göbekli Tepe", "date": "~9600 BCE" }
+      }
+    },
+    {
+      "name": "Sapiens",
+      "form": "symbolic cognition",
+      "vectors": {
+        "I": { "mode": "Mind", "referent": "Symbolic revolution, Blombos", "date": "~75,000 years ago" },
+        "You": { "mode": "Tool", "referent": "Neolithic Revolution (6+ independent centers)", "date": "~10,000-8,000 BCE" },
+        "We": { "mode": "Tribe", "referent": "Göbekli Tepe as a supra-kin gathering site", "date": "~9600 BCE" },
+        "They": { "mode": "Myth", "referent": "Oral mythic culture (Donald); phylogenetics of myth (d'Huy)", "date": "~15,000-20,000 years ago" }
+      }
+    },
+    {
+      "name": "Ludens",
+      "form": "semiotic cognition",
+      "vectors": {
+        "I": { "mode": "Symbol", "referent": "Writing (4 independent inventions)", "date": "~3200 BCE" },
+        "You": { "mode": "Text", "referent": "Omen literature (Enuma Anu Enlil)", "date": "~2000-1600 BCE" },
+        "We": { "mode": "Ideology", "referent": "Axial Age (Jaspers, 1949)", "date": "~800-200 BCE" },
+        "They": { "mode": "Polis", "referent": "Classical Greek era (Huizinga, 1938)", "date": "~800-400 BCE" }
+      }
+    },
+    {
+      "name": "Digitalis",
+      "form": "informational cognition",
+      "vectors": {
+        "I": { "mode": "Knowledge", "referent": "Library of Alexandria", "date": "~283 BCE" },
+        "You": { "mode": "Technology", "referent": "Nestorian schools → House of Wisdom → Toledo → printing press → Scientific Revolution → Enlightenment", "date": "~400-1800 CE" },
+        "We": { "mode": "Information", "referent": "Shannon, A Mathematical Theory of Communication", "date": "1948" },
+        "They": { "mode": "Network", "referent": "ARPANET", "date": "1969" }
+      }
+    }
+  ],
+  "laws": [
+    {
+      "name": "Law I: Externalization of Cognition",
+      "description": "The carrier of knowledge shifts from the living body to symbol, text, technology, network"
+    },
+    {
+      "name": "Law II: Expansion of the Cognitive Community",
+      "description": "Individual → kin → tribe → ideological community → informational network"
+    }
+  ]
+}
