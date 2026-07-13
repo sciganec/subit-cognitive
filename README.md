@@ -1,32 +1,50 @@
-# Theory of Cognitive Evolution
+# Cognitive Evolution of Man · Version 5.3
 
-A working model of human cognitive history through four successive paradigms (Proto → Sapiens → Ludens → Digitalis), each unfolding through four invariant vectors of externalization (I–You–We–They).
+**A Structural Model of the Historical Development of Knowledge Externalization**
 
-> **Status:** a working hypothesis / structured model for further operationalization, **not** a finished, falsified scientific theory. The document explicitly and consistently flags where empirical support is strong and where it is contested or absent. See the "Limitations" section in [docs/theory.md](docs/theory.md#10-limitations).
+---
 
-## What this is
+## Overview
 
-The model maps 16 "modes" of cognitive externalization onto specific, dated historical and scientific referents — from paleoanthropology (the mirror test, Jebel Irhoud) to the history of science (Shannon, 1948) — with explicit differentiation of evidentiary strength for each mode.
+This repository contains the full text of a paper proposing a structural model of human cognitive evolution. The central thesis: after the biological emergence of *Homo sapiens*, the primary cumulative mechanism of development is no longer biological evolution, but cultural-cognitive externalization — the successive outsourcing of cognitive functions to external media (from the body to symbols, texts, technologies, and networks).
 
-## Matrix structure
+The model describes four historical paradigms (**Proto, Sapiens, Ludens, Digitalis**) through four invariant vectors (**I, Thou, They, We**). Each of the 16 cells in the matrix represents a specific cognitive mode with empirical correlates in archaeology, history, and technology.
 
-| Paradigm | I | You | We | They |
+---
+
+## The Mode Matrix (Version 5.3)
+
+| Paradigm | **I** (Subject) | **Thou** (Medium) | **They** (World Model) | **We** (Collective) |
 |---|---|---|---|---|
-| **Proto** | Consciousness | Body | Kin | Nature |
-| **Sapiens** | Mind | Tool | Tribe | Myth |
+| **Proto** | Consciousness | Body | Nature | Kin |
+| **Sapiens** | Self-Consciousness | Tool | Myth | Tribe |
 | **Ludens** | Symbol | Text | Ideology | Polis |
-| **Digitalis** | Knowledge | Technology | Information | Network |
+| **Digitalis** | Information | Technology | Data | Network |
 
-## Key claims
+---
 
-1. After the emergence of Homo sapiens, the main cumulative mechanism of development is no longer biological but cognitive evolution.
-2. Cognitive evolution proceeds through the successive externalization of the functions of representing, storing, and transmitting knowledge.
-3. Every historical cognitive paradigm retains an invariant four-vector structure (I–You–We–They), changing only the specific historical content (mode) of each vector.
-4. A new paradigm does not fully replace the previous one but expands the space of possible cognitive operations — empirically supported by the coexistence, rather than displacement, of prior modes (see docs/theory.md, §10).
+## Two Overarching Laws
 
-## Main sources
+1. **Externalization of the medium** (Thou):  
+   Body → Tool → Text → Technology  
+   *Knowledge moves from embodied through objectified to autonomous.*
 
-Donald (1991), Tylor (1871), Service (1962), Maine (1861), Jaspers (1949), Huizinga (1938), Shannon (1948), Clark & Chalmers (1998), Hutchins (1995). Full list in [docs/theory.md](docs/theory.md#references).
+2. **Expansion of the collective** (We):  
+   Kin → Tribe → Polis → Network  
+   *Community moves from blood kinship through symbolic and institutional to global networked.*
+
+---
+
+## Status
+
+- ✅ Conceptual framework complete (version 5.3)
+- ✅ All 16 modes described
+- ✅ Two overarching laws formulated
+- ⏳ Chronological anchoring pending
+- ⏳ Cross-cultural verification planned
+- ⏳ Hypothetical *Proteus* paradigm — in development
+
+---
 
 ## License
 
