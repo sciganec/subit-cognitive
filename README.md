@@ -1,4 +1,4 @@
-# Cognitive Evolution of Man · Version 5.3
+# Cognitive Evolution · Version 5.3
 
 **A Structural Model of the Historical Development of Knowledge Externalization**
 
